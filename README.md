@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdamCoonen
-- 👀 I’m interested in all sorts of stuff but want to build libraries and learn more about search alorythms
-- 🌱 I’m currently learning Redux
+
 - 📫 How to reach me a adam.coonen@nuborders.com
 
 <!---
